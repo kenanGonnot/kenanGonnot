@@ -1,6 +1,7 @@
-<h1> Hello there ...</h1>
+<h1><img src = "https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e478vlanqk4fqkpjx1qc0nklx6cbxtux3vh5gycgtrx&rid=giphy.gif&ct=g" width = 15%> ...</h1>
 <p align='center'>
 
+  
 
 </p>
 <div size='20px'> Hi! My name is Kenan Gonnot. I am an Artificial Intelligence Engineer Junior. I'm new in this world of Intelligence Science. Thank You for taking the time to view my GitHub Profile :) 
