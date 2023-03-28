@@ -8,7 +8,7 @@
 
 <h2> ✨About Me✨ </h2>
 
-<img src = "https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width = 55% align="right" alt="Github">
+<img src = "https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width = 30% align="right" alt="Github">
 
 - 🥳 As a recent graduate in AI engineering with a strong passion for machine learning, computer vision, and data science, I am motivated to work on innovative projects and solve complex problems using advanced AI techniques.
 
@@ -19,8 +19,7 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> 
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'>
